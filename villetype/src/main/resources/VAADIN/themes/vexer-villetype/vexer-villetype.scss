@@ -1,0 +1,17 @@
+@mixin vexer-villetype {
+
+	/*
+	* Vaadin provides an effective way of importing add-on themes but does not 
+	* provide any automatic name-spacing. You should prefix all your 
+	* rules with villetype to avoid any conflicts.
+	*/
+
+	.villetype-answer {
+		color: green;
+	}
+
+	.villetype-title {
+		font-size: 24px;
+		font-weight: stronger;
+	}
+}

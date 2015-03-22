@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: fi.utu.ville.exercises:vexer-model:0.1.17-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/fi/utu/ville/exercises/vexer-model/0.1.17-SNAPSHOT/vexer-model-0.1.17-20150216.082729-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/fi/utu/ville/exercises/vexer-model/0.1.17-SNAPSHOT/vexer-model-0.1.17-20150216.082729-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/fi/utu/ville/exercises/vexer-model/0.1.17-SNAPSHOT/vexer-model-0.1.17-20150216.082729-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

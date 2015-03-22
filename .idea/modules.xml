@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/villetype/villetype.iml" filepath="$PROJECT_DIR$/villetype/villetype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/villetype-stub/villetype-stub.iml" filepath="$PROJECT_DIR$/villetype-stub/villetype-stub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/villetype-ville.iml" filepath="$PROJECT_DIR$/villetype-ville.iml" />
+    </modules>
+  </component>
+</project>

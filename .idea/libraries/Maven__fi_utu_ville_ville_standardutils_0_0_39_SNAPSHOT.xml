@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: fi.utu.ville:ville-standardutils:0.0.39-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/fi/utu/ville/ville-standardutils/0.0.39-SNAPSHOT/ville-standardutils-0.0.39-20150212.101539-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/fi/utu/ville/ville-standardutils/0.0.39-SNAPSHOT/ville-standardutils-0.0.39-20150212.101539-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/fi/utu/ville/ville-standardutils/0.0.39-SNAPSHOT/ville-standardutils-0.0.39-20150212.101539-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
